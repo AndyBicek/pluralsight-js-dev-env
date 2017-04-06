@@ -3,3 +3,5 @@ No content ????
 git add .
 git commit - m "myMessage"
 git push
+
+new commtít with CTRL-ENTER
