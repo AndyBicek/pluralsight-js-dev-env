@@ -1,11 +1,7 @@
-No content ????
+some contnet:
 
 git add .
-git commit - m "myMessage"
-git push
 
-new commit with CTRL+ENTER
+git commit -m "Comment for"
 
-but only with command
 git push
-the file is getting to webRepo AndyBicek at GitHub
