@@ -6,3 +6,6 @@ git push
 
 new commit with CTRL+ENTER
 
+but only with command
+git push
+the file is getting to webRepo AndyBicek at GitHub
